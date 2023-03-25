@@ -1,1 +1,3 @@
 # Officine-Europee-Project
+Questo progetto ha lo scopo di coelidere la cultura con l'informatica, difatti io ed altri ragazzi, uniti dalla medesima passione, andremo a creare questo gioco, che sarà disponibile a tutti, al fine di creare un qualcosa che possa far comprendere ai ragazzi l'importanza della cultura, che oggi si sta lentamente dissolvendo, mista ad un qualcosa di divertente! Restate sintonizzati!
+This project has the aim of coelid the culture with computer science, in fact I and other guys, united by the same passion, we will create this game, which will be available to all, in order to create something that can make children understand the importance of culture, which today is slowly dissolving, mixed with something fun! Stay on the line!
